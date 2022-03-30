@@ -10,15 +10,19 @@
 <section>
 <h2>Minhas redes:</h2>
   <a href="https://www.linkedin.com/in/lucas-eduardo-m-alves/"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="linkedin"></a>
-  <a href="https://www.freecodecamp.org/lucaseduardolema"><img width="70px" src="https://styles.redditmedia.com/t5_34mfx/styles/communityIcon_odbxo8lc3tv41.png" alt="FreeCodeCamp"></a>
-  <a href="https://codepen.io/lucaseduardolema"><img width="70px" src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="CodePen"></a>
+  <a href="https://www.freecodecamp.org/lucaseduardolema"><img width="60px" src="https://styles.redditmedia.com/t5_34mfx/styles/communityIcon_odbxo8lc3tv41.png" alt="FreeCodeCamp"></a>
+  <a href="https://codepen.io/lucaseduardolema"><img width="60px" src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="CodePen"></a>
 </section>
 
 <section>
 <h2>Minhas atividades:</h2>
+<div align="center">
+    <a href="https://github.com/lucaseduardolema/">
+        <p><img src="https://github-readme-stats.vercel.app/api?username=lucaseduardolema&show_icons=true&theme=radical" alt="lucaseduardolema-github-stats"></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardolema&layout=compact&show_icons=true&theme=dark"></p>
+    </a>
+</div>
 </section>
-
-  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardolema&layout=compact&show_icons=true&theme=dark) ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardolema&show_icons=true&theme=radical)
 
 <!--
 **lucaseduardolema/lucaseduardolema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
