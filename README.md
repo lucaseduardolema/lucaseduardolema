@@ -18,6 +18,7 @@
     <h2>Minhas atividades:</h2>
     <div align="center">
         <a href="https://github.com/lucaseduardolema/">
+            <p><img src="https://activity-graph.herokuapp.com/graph?username=lucaseduardolema&custom_title=Lucas%20Contribution%20Graph&theme=react-dark&hide_border=false&line=d1a01f&point=c58545)"></p>
             <p><img src="https://github-readme-stats.vercel.app/api?username=lucaseduardolema&show_icons=true&theme=radical" alt="lucaseduardolema-github-stats"></p>
             <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardolema&layout=compact&show_icons=true&theme=dark"></p>
         </a>
