@@ -5,7 +5,7 @@
 
 - 👨‍💻 Alguns projetos meus [Portfolio](https://lucaseduardolema.github.io/portfolio-react/)
 
-- 📫 Me mande um e-mail **lucaseduardo.lema@gmail.com**
+- 📫 Me mande um e-mail **lucaseduardolema@gmail.com**
 
 - 📄 Veja meu curriculo no [Google Drive](https://drive.google.com/file/d/1rnGPzTx3uQrJbkE5GIuZgzCT1U8YqhW_/view?usp=share_link)
 
