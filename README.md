@@ -1,13 +1,11 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Lucas Eduardo</h1>
 <h3 align="center">Desenvolvedor web full stack com :heart: pelo back-end e muito :coffee:</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Python**
-
-- 👨‍💻 Alguns projetos meus [Portfolio](https://lucaseduardolema.github.io/portfolio-react/)
+- 🌱 Atualmente estou aprendendo sobre **Java**
 
 - 📫 Me mande um e-mail **lucaseduardolema@gmail.com**
 
-- 📄 Veja meu curriculo no [Google Drive](https://drive.google.com/file/d/1rh_uSC3-9fw0V0UpdTs8tmrtRF9ZZOuT/view?usp=sharing)
+- 📄 Veja meu curriculo no [Google Drive](https://drive.google.com/file/d/18XR8zHkl3BY3aYRZ0_RBUTJm2eSci1Xr/view?usp=sharing)
 
 - ⚡ A Grande Resposta sobre a Vida, o Universo e Tudo o Mais... **42**
 
