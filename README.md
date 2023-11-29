@@ -5,7 +5,7 @@
 
 - 📫 Me mande um e-mail **lucaseduardolema@gmail.com**
 
-- 📄 Veja meu curriculo no [Google Drive](https://drive.google.com/file/d/18XR8zHkl3BY3aYRZ0_RBUTJm2eSci1Xr/view?usp=sharing)
+- 📄 Veja meu curriculo no [Google Drive](https://drive.google.com/file/d/1vLpa1HHyZ7POm8r8sCjjhMxQfN1Z6lVk/view?usp=sharing)
 
 - ⚡ A Grande Resposta sobre a Vida, o Universo e Tudo o Mais... **42**
 
