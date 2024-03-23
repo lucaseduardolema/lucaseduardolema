@@ -1,7 +1,7 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Lucas Eduardo</h1>
 <h3 align="center">Desenvolvedor web full stack com :heart: pelo back-end e muito :coffee:</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Java**
+- 🌱 Desenvolvedor Full Stack com experiência também em Suporte em TI
 
 - 📫 Me mande um e-mail **lucaseduardolema@gmail.com**
 
